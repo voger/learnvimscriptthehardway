@@ -1,2 +1,2 @@
 # learnvimscriptthehardway
-My solutions to the exercises. 
+My solutions to the exercises. May be good. May be rubbish.
